@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkashyap187/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
