@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
