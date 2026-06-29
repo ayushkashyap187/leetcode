@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushkashyap187/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkashyap187/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushkashyap187/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
