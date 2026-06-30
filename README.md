@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushkashyap187/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
