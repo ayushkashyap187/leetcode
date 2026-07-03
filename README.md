@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/ayushkashyap187/leetcode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ayushkashyap187/leetcode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
