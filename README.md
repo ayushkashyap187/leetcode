@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushkashyap187/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushkashyap187/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushkashyap187/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
