@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushkashyap187/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/ayushkashyap187/leetcode/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
