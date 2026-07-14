@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushkashyap187/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushkashyap187/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -103,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
