@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/ayushkashyap187/leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/ayushkashyap187/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ayushkashyap187/leetcode/tree/master/0162-find-peak-element) |
+| [0633-sum-of-square-numbers](https://github.com/ayushkashyap187/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ayushkashyap187/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushkashyap187/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushkashyap187/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ayushkashyap187/leetcode/tree/master/2652-sum-multiples) |
