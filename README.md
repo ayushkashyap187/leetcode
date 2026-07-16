@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ayushkashyap187/leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/ayushkashyap187/leetcode/tree/master/0198-house-robber) |
 | [0860-lemonade-change](https://github.com/ayushkashyap187/leetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushkashyap187/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ayushkashyap187/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
