@@ -5,13 +5,14 @@ class Solution {
         return helper(nums,nums.length-1,dp);
     }
     public int helper(int[] nums,int n,int[] dp){
-        if(n==0) return nums[n];
-        if(n<0) return 0;
-
-        if(dp[n] != -1) return dp[n];
-
-        int p=nums[n]+helper(nums,n-2,dp);
-        int up=helper(nums,n-1,dp);
-        return dp[n]=Math.max(p,up);
+        dp[0]=nums[0];
+        int p=0;
+        for(int i=1;i<=n;i++){
+            if(i<=1) p=nums[i];
+            else p=nums[i]+ dp[i-2];
+            int up=dp[i-1];
+            dp[i]=Math.max(p,up);
+        }
+        return dp[n];
     }
 }
