@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushkashyap187/leetcode/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/ayushkashyap187/leetcode/tree/master/0290-word-pattern) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushkashyap187/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0290-word-pattern](https://github.com/ayushkashyap187/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ayushkashyap187/leetcode/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkashyap187/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushkashyap187/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
