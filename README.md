@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/ayushkashyap187/leetcode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/ayushkashyap187/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ayushkashyap187/leetcode/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/ayushkashyap187/leetcode/tree/master/0290-word-pattern) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushkashyap187/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -153,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayushkashyap187/leetcode/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushkashyap187/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
