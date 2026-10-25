@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/ayushkashyap187/leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/ayushkashyap187/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ayushkashyap187/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushkashyap187/leetcode/tree/master/0198-house-robber) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushkashyap187/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/ayushkashyap187/leetcode/tree/master/0044-wildcard-matching) |
 | [0290-word-pattern](https://github.com/ayushkashyap187/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ayushkashyap187/leetcode/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushkashyap187/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ayushkashyap187/leetcode/tree/master/0044-wildcard-matching) |
 | [0860-lemonade-change](https://github.com/ayushkashyap187/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushkashyap187/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ayushkashyap187/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ayushkashyap187/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ayushkashyap187/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
